@@ -1,0 +1,15 @@
+Assets/ProBuilder/
+Library/
+Logs/
+Packages/
+ProjectSettings/
+UserSettings/
+Assembly-CSharp.csproj
+*.vsconfig
+*.sln
+*.md
+*.meta
+*.mat
+*.png
+*.unitypackage
+.vs/
