@@ -1,0 +1,10 @@
+Assets/
+Library/
+Logs/
+Packages/
+ProjectSettings/
+UserSettings/
+Assembly-CSharp.csproj
+.vsconfig
+.sln
+.md
