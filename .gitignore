@@ -1,4 +1,5 @@
 Assets/ProBuilder/
+Assets/ProBuilder Data/
 Library/
 Logs/
 Packages/
@@ -13,3 +14,6 @@ Assembly-CSharp.csproj
 *.png
 *.unitypackage
 .vs/
+.asset
+
+Temp/
